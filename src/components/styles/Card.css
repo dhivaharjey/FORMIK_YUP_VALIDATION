@@ -1,0 +1,15 @@
+img {
+  height: 400px;
+  width: auto;
+  background-size: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  border-radius: 2rem 2rem 0 0;
+}
+.card {
+  border-radius: 2rem;
+
+  box-shadow: rgba(17, 17, 26, 0.3) 0px 4px 16px,
+    rgba(17, 17, 26, 0.2) 0px 8px 24px, rgba(17, 17, 26, 0.2) 0px 16px 56px;
+}
